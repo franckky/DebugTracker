@@ -1,16 +1,23 @@
 ﻿<Properties StartupConfiguration="{FCBE2224-5061-48AA-8B73-560BA368EA2D}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="DebugTracker.DALs/Class1.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DebugTracker.Data/DebugTrackerDbContext.cs">
     <Files>
-      <File FileName="DebugTracker.DALs/Class1.cs" Line="9" Column="1" />
+      <File FileName="DebugTracker.Api/appsettings.json" Line="1" Column="1" />
+      <File FileName="DebugTracker.Data/DebugTrackerDbContext.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="DebugTracker.Api" expanded="True" selected="True">
-            <Node name="DebugTracker.Api" expanded="True" />
-            <Node name="DebugTracker.DALs" expanded="True" />
-            <Node name="DebugTracker.Data" expanded="True" />
-            <Node name="DebugTracker.Services" expanded="True" />
+          <Node name="DebugTracker.Api" expanded="True">
+            <Node name="DebugTracker.Api" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+            <Node name="DebugTracker.Data" expanded="True">
+              <Node name="Migrations" expanded="True" />
+              <Node name="DebugTrackerDbContext.cs" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
@@ -20,7 +27,9 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.DebugTracker.Api PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="/Users/franck/Sites/DebugTracker/DebugTracker.Api/DebugTracker.Data/DebugTrackerDbContext.cs" relfile="DebugTracker.Data/DebugTrackerDbContext.cs" line="6" column="1" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>
