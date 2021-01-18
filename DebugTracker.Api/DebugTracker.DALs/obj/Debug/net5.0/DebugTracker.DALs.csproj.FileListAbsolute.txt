@@ -1,0 +1,12 @@
+/Users/franck/Sites/DebugTracker/DebugTracker.Api/DebugTracker.DALs/bin/Debug/net5.0/DebugTracker.DALs.deps.json
+/Users/franck/Sites/DebugTracker/DebugTracker.Api/DebugTracker.DALs/bin/Debug/net5.0/DebugTracker.DALs.dll
+/Users/franck/Sites/DebugTracker/DebugTracker.Api/DebugTracker.DALs/bin/Debug/net5.0/ref/DebugTracker.DALs.dll
+/Users/franck/Sites/DebugTracker/DebugTracker.Api/DebugTracker.DALs/bin/Debug/net5.0/DebugTracker.DALs.pdb
+/Users/franck/Sites/DebugTracker/DebugTracker.Api/DebugTracker.DALs/obj/Debug/net5.0/DebugTracker.DALs.csprojAssemblyReference.cache
+/Users/franck/Sites/DebugTracker/DebugTracker.Api/DebugTracker.DALs/obj/Debug/net5.0/DebugTracker.DALs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/franck/Sites/DebugTracker/DebugTracker.Api/DebugTracker.DALs/obj/Debug/net5.0/DebugTracker.DALs.AssemblyInfoInputs.cache
+/Users/franck/Sites/DebugTracker/DebugTracker.Api/DebugTracker.DALs/obj/Debug/net5.0/DebugTracker.DALs.AssemblyInfo.cs
+/Users/franck/Sites/DebugTracker/DebugTracker.Api/DebugTracker.DALs/obj/Debug/net5.0/DebugTracker.DALs.csproj.CoreCompileInputs.cache
+/Users/franck/Sites/DebugTracker/DebugTracker.Api/DebugTracker.DALs/obj/Debug/net5.0/DebugTracker.DALs.dll
+/Users/franck/Sites/DebugTracker/DebugTracker.Api/DebugTracker.DALs/obj/Debug/net5.0/ref/DebugTracker.DALs.dll
+/Users/franck/Sites/DebugTracker/DebugTracker.Api/DebugTracker.DALs/obj/Debug/net5.0/DebugTracker.DALs.pdb
